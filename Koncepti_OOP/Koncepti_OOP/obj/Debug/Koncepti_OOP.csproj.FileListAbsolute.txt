@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\Koncepti_OOP\Koncepti_OOP\bin\Debug\Koncepti_OOP.exe.config
+C:\Users\Korisnik\source\repos\Koncepti_OOP\Koncepti_OOP\bin\Debug\Koncepti_OOP.exe
+C:\Users\Korisnik\source\repos\Koncepti_OOP\Koncepti_OOP\bin\Debug\Koncepti_OOP.pdb
+C:\Users\Korisnik\source\repos\Koncepti_OOP\Koncepti_OOP\obj\Debug\Koncepti_OOP.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Koncepti_OOP\Koncepti_OOP\obj\Debug\Koncepti_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Koncepti_OOP\Koncepti_OOP\obj\Debug\Koncepti_OOP.exe
+C:\Users\Korisnik\source\repos\Koncepti_OOP\Koncepti_OOP\obj\Debug\Koncepti_OOP.pdb
