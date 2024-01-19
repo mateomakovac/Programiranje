@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\Inicialno_Ponavljanje\Inicialno_Ponavljanje\bin\Debug\Inicialno_Ponavljanje.exe.config
+C:\Users\Korisnik\source\repos\Inicialno_Ponavljanje\Inicialno_Ponavljanje\bin\Debug\Inicialno_Ponavljanje.exe
+C:\Users\Korisnik\source\repos\Inicialno_Ponavljanje\Inicialno_Ponavljanje\bin\Debug\Inicialno_Ponavljanje.pdb
+C:\Users\Korisnik\source\repos\Inicialno_Ponavljanje\Inicialno_Ponavljanje\obj\Debug\Inicialno_Ponavljanje.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Inicialno_Ponavljanje\Inicialno_Ponavljanje\obj\Debug\Inicialno_Ponavljanje.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Inicialno_Ponavljanje\Inicialno_Ponavljanje\obj\Debug\Inicialno_Ponavljanje.exe
+C:\Users\Korisnik\source\repos\Inicialno_Ponavljanje\Inicialno_Ponavljanje\obj\Debug\Inicialno_Ponavljanje.pdb
