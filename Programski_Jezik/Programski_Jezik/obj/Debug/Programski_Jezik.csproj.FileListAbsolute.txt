@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\Programski_Jezik\Programski_Jezik\bin\Debug\Programski_Jezik.exe.config
+C:\Users\Korisnik\source\repos\Programski_Jezik\Programski_Jezik\bin\Debug\Programski_Jezik.exe
+C:\Users\Korisnik\source\repos\Programski_Jezik\Programski_Jezik\bin\Debug\Programski_Jezik.pdb
+C:\Users\Korisnik\source\repos\Programski_Jezik\Programski_Jezik\obj\Debug\Programski_Jezik.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Programski_Jezik\Programski_Jezik\obj\Debug\Programski_Jezik.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Programski_Jezik\Programski_Jezik\obj\Debug\Programski_Jezik.exe
+C:\Users\Korisnik\source\repos\Programski_Jezik\Programski_Jezik\obj\Debug\Programski_Jezik.pdb
