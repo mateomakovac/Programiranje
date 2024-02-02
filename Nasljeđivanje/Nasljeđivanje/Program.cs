@@ -1,58 +1,79 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Nasljeđivanje
 {
-
-
-    class Cat
-    {
-        public bool opasna;
-
-        public bool Opasna { get => opasna; set => opasna = value; }
-
-
-
-        public virtual void opasnost()
-        {
-            Opasna = false;
-        }
-
-
-    }
-
-
-
-    class Gepard : Cat
-    {
-        public override void opasnost()
-        {
-            Opasna = true;
-        }
-
-    }
-
-
-
-
-
-
     internal class Program
     {
-        static void Main(string[] args)
+        class Brojevi
         {
-            Gepard g = new Gepard();
-            g.opasnost();
+            protected double broj;
 
-            Console.WriteLine(g.Opasna);
-            Console.ReadKey();
+            public double Broj
+            {
+                get { return broj; }
+                set { broj = value; }
+            }
+
+            public virtual double ApsVrijednost()
+            {
+                return 0;
+            }
         }
 
-        
+        class Cijeli : Brojevi
+        {
+            public override double ApsVrijednost()
+            {
+                return Math.Abs(broj);
+            }
+        }
 
+        class Decimalni : Brojevi
+        {
+            public override double ApsVrijednost()
+            {
+                return Math.Abs(broj);
+            }
+        }
+
+        class Pozitivni : Cijeli
+        {
+            public override double ApsVrijednost()
+            {
+                return broj;
+            }
+        }
+
+        class Negativni : Cijeli
+        {
+            public override double ApsVrijednost()
+            {
+                return -broj;
+            }
+        }
+
+        class Program_2
+        {
+            static void Main()
+            {
+                Pozitivni x = new Pozitivni();
+                x.Broj = 100;
+
+                Negativni y = new Negativni();
+                y.Broj = -100;
+
+                Decimalni z = new Decimalni();
+                z.Broj = 100.45;
+
+                Console.WriteLine($"Apsolutna vrijednost x: {x.ApsVrijednost()}");
+                Console.WriteLine($"Apsolutna vrijednost y: {y.ApsVrijednost()}");
+                Console.WriteLine($"Apsolutna vrijednost z: {z.ApsVrijednost()}");
+                Console.ReadKey();
+            }
+        }
     }
 }
