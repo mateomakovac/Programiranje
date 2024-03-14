@@ -1,0 +1,7 @@
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makova_2\LINQ_Mateo_Makova_2\bin\Debug\LINQ_Mateo_Makova_2.exe.config
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makova_2\LINQ_Mateo_Makova_2\bin\Debug\LINQ_Mateo_Makova_2.exe
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makova_2\LINQ_Mateo_Makova_2\bin\Debug\LINQ_Mateo_Makova_2.pdb
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makova_2\LINQ_Mateo_Makova_2\obj\Debug\LINQ_Mateo_Makova_2.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makova_2\LINQ_Mateo_Makova_2\obj\Debug\LINQ_Mateo_Makova_2.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makova_2\LINQ_Mateo_Makova_2\obj\Debug\LINQ_Mateo_Makova_2.exe
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makova_2\LINQ_Mateo_Makova_2\obj\Debug\LINQ_Mateo_Makova_2.pdb
