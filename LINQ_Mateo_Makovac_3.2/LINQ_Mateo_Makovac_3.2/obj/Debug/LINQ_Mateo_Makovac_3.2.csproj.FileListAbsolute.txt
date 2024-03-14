@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\LINQ_Mateo_Makovac_3.2\LINQ_Mateo_Makovac_3.2\bin\Debug\LINQ_Mateo_Makovac_3.2.exe.config
+C:\Users\Korisnik\source\repos\LINQ_Mateo_Makovac_3.2\LINQ_Mateo_Makovac_3.2\bin\Debug\LINQ_Mateo_Makovac_3.2.exe
+C:\Users\Korisnik\source\repos\LINQ_Mateo_Makovac_3.2\LINQ_Mateo_Makovac_3.2\bin\Debug\LINQ_Mateo_Makovac_3.2.pdb
+C:\Users\Korisnik\source\repos\LINQ_Mateo_Makovac_3.2\LINQ_Mateo_Makovac_3.2\obj\Debug\LINQ_Mateo_Makovac_3.2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\LINQ_Mateo_Makovac_3.2\LINQ_Mateo_Makovac_3.2\obj\Debug\LINQ_Mateo_Makovac_3.2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\LINQ_Mateo_Makovac_3.2\LINQ_Mateo_Makovac_3.2\obj\Debug\LINQ_Mateo_Makovac_3.2.exe
+C:\Users\Korisnik\source\repos\LINQ_Mateo_Makovac_3.2\LINQ_Mateo_Makovac_3.2\obj\Debug\LINQ_Mateo_Makovac_3.2.pdb
