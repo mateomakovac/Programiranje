@@ -1,0 +1,7 @@
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makovac_3\LINQ_Mateo_Makovac_3\bin\Debug\LINQ_Mateo_Makovac_3.exe.config
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makovac_3\LINQ_Mateo_Makovac_3\bin\Debug\LINQ_Mateo_Makovac_3.exe
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makovac_3\LINQ_Mateo_Makovac_3\bin\Debug\LINQ_Mateo_Makovac_3.pdb
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makovac_3\LINQ_Mateo_Makovac_3\obj\Debug\LINQ_Mateo_Makovac_3.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makovac_3\LINQ_Mateo_Makovac_3\obj\Debug\LINQ_Mateo_Makovac_3.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makovac_3\LINQ_Mateo_Makovac_3\obj\Debug\LINQ_Mateo_Makovac_3.exe
+C:\Users\Ucenik\Desktop\LINQ_Mateo_Makovac_3\LINQ_Mateo_Makovac_3\obj\Debug\LINQ_Mateo_Makovac_3.pdb
