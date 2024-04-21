@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\bin\Debug\TxtEditor.exe.config
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\bin\Debug\TxtEditor.exe
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\bin\Debug\TxtEditor.pdb
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.Form1.resources
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.exe
+C:\Users\Korisnik\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.pdb
