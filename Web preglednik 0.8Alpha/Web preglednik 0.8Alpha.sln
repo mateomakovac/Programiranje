@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web preglednik 0.8Alpha", "Web preglednik 0.8Alpha\Web preglednik 0.8Alpha.csproj", "{5CE71F46-AB0F-4E7A-93A3-8EEA9B4E6138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE71F46-AB0F-4E7A-93A3-8EEA9B4E6138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE71F46-AB0F-4E7A-93A3-8EEA9B4E6138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE71F46-AB0F-4E7A-93A3-8EEA9B4E6138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE71F46-AB0F-4E7A-93A3-8EEA9B4E6138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52C22C37-CE7E-4160-BFBB-018B59FEBC7A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\bin\Debug\Web preglednik 0.8Alpha.exe.config
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\bin\Debug\Web preglednik 0.8Alpha.exe
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\bin\Debug\Web preglednik 0.8Alpha.pdb
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\obj\Debug\Web preglednik 0.8Alpha.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\obj\Debug\Web_preglednik_0._8Alpha.Form1.resources
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\obj\Debug\Web_preglednik_0._8Alpha.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\obj\Debug\Web preglednik 0.8Alpha.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\obj\Debug\Web preglednik 0.8Alpha.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\obj\Debug\Web preglednik 0.8Alpha.exe
+C:\Users\Korisnik\source\repos\Web preglednik 0.8Alpha\Web preglednik 0.8Alpha\obj\Debug\Web preglednik 0.8Alpha.pdb
