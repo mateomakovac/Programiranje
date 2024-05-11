@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\bin\Debug\CSVaplikacija.exe.config
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\bin\Debug\CSVaplikacija.exe
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\bin\Debug\CSVaplikacija.pdb
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\obj\Debug\CSVaplikacija.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\obj\Debug\CSVaplikacija.Form1.resources
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\obj\Debug\CSVaplikacija.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\obj\Debug\CSVaplikacija.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\obj\Debug\CSVaplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\obj\Debug\CSVaplikacija.exe
+C:\Users\Korisnik\source\repos\CSVaplikacija\CSVaplikacija\obj\Debug\CSVaplikacija.pdb
